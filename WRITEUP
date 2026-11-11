@@ -1,0 +1,1 @@
+Using the guide posted in #links in discord, we're gonna try using modbus TCP. The python software could read tank levels, pump states, and other PLC data.
